@@ -47,13 +47,12 @@
   "education": [
     {
       "institution": "University of Texas at Austin",
-      "location": "2515 Speedway, Austin, TX 78712",
+      "location": "Austin, TX",
       "url": "https://www.utexas.edu/",
       "area": "Computer Science Honors and Business Honors (CSB)",
-      "studyType": "Bachelor",
+      "studyType": "B.S.",
       "startDate": "2024",
-      "endDate": "2028",
-      "courses": ["Theory of Relativity"]
+      "endDate": "2028"
     }
   ],
   "awards": [
